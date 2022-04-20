@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E2345DE3-775C-45E1-9973-F0F2EA53B871}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Purse/Program.cs">
+    <Files>
+      <File FileName="Purse/CreditCard.cs" Line="16" Column="2" />
+      <File FileName="Purse/Program.cs" Line="18" Column="6" />
+      <File FileName="Purse/App.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Purse" expanded="True">
+            <Node name="Purse" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Purse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
