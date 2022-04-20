@@ -12,6 +12,7 @@ namespace Purse
         {
             BusinessCard businessCard = new BusinessCard();  
             CreditCart creditCart=new CreditCart();
+            Money money= new Money();
         }
     }
 }
