@@ -1,4 +1,4 @@
-Markup : * Typescript
+ * Typescript
           * React
               * Nested bullet
                   * Sub-nested bullet etc
