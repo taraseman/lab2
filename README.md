@@ -1,6 +1,6 @@
- * Typescript
-          * React
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Typescript
+* React
+ * Nested bullet
+ * Sub-nested bullet etc
+* Bullet list item 2
           
